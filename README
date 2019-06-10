@@ -1,0 +1,3 @@
+My_Read_Iso is a project which goal is to produce an executable
+able to read an ISO9660 file.
+It will display the ISO's architecture, get /display the files etc..

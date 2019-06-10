@@ -1,0 +1,15 @@
+[+]Sanity
+[+]info
+[+]ls
+[+]cat
+[+]tty
+[+]quit
+[+]help
+[+]cd
+[-]pwd
+[+]get
+[-]advanced-cd
+[-]tree
+[-]absolute path
+[-]relative path
+[-]pathtable
